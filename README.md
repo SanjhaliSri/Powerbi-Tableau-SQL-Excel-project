@@ -9,7 +9,7 @@
 <img width="1325" height="748" alt="image" src="https://github.com/user-attachments/assets/610ceff3-494a-4c18-906f-f64e26551c87" />
 
 **Tableau HR Analytics Project:**
-![HR Analytics Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/0d853a88-0651-4eae-a282-3b03abe5ed40)
+<img width="3158" height="1798" alt="image" src="https://github.com/user-attachments/assets/851a38d3-16c8-45c4-b0ef-b18f0593d3c6" />
 
 **SQL Queries:**
 ![SQL Queries HR Analytics](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/b3ff0499-8fa8-4357-8a5a-1a36a0832e98)
