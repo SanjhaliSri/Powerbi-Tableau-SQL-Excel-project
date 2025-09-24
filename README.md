@@ -6,7 +6,8 @@
 **Preview of Projects:**
 
 **Power BI HR Analytics Dashboard:**
-![HR Analytics POwer BI Dashboard](file:///C:/Users/dell/Downloads/powerbi_image.pdf)
+<img width="1325" height="748" alt="image" src="https://github.com/user-attachments/assets/610ceff3-494a-4c18-906f-f64e26551c87" />
+
 **Tableau HR Analytics Project:**
 ![HR Analytics Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/0d853a88-0651-4eae-a282-3b03abe5ed40)
 
