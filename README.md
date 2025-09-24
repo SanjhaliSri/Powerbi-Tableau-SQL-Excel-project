@@ -12,7 +12,8 @@
 <img width="3158" height="1798" alt="image" src="https://github.com/user-attachments/assets/851a38d3-16c8-45c4-b0ef-b18f0593d3c6" />
 
 **SQL Queries:**
-<img width="695" height="717" alt="image" src="https://github.com/user-attachments/assets/398da595-a471-4987-af40-0a62bb3c293b" />
+<img width="811" height="762" alt="image" src="https://github.com/user-attachments/assets/867c1e61-a90b-4b06-b3fd-37624767b919" />
+
 
 **SQL Power BI Test Document:**
 <img width="1144" height="565" alt="image" src="https://github.com/user-attachments/assets/555dea3b-f5ed-4b12-920d-7d26f01ee9a5" />
