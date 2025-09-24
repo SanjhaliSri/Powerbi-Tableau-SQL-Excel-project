@@ -12,16 +12,17 @@
 <img width="3158" height="1798" alt="image" src="https://github.com/user-attachments/assets/851a38d3-16c8-45c4-b0ef-b18f0593d3c6" />
 
 **SQL Queries:**
-![SQL Queries HR Analytics](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/b3ff0499-8fa8-4357-8a5a-1a36a0832e98)
+<img width="695" height="717" alt="image" src="https://github.com/user-attachments/assets/398da595-a471-4987-af40-0a62bb3c293b" />
 
 **SQL Power BI Test Document:**
-![SQL Power Bi Test](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/40d831f7-b6b9-4c20-9b68-16443c456f25)
+<img width="1144" height="565" alt="image" src="https://github.com/user-attachments/assets/555dea3b-f5ed-4b12-920d-7d26f01ee9a5" />
+
 
 **SQL Tableau Test Document:**
-![SQL Tableau Test HR Analytics](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/4140fb78-7148-450a-bfd8-ac15e255e4ec)
+<img width="1159" height="562" alt="image" src="https://github.com/user-attachments/assets/69ff0657-9ff2-42be-a179-0dbc589560fd" />
 
 **Excel HR Analytics Dashboard:**
-![HR Analytics Excel Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/61adb174-ab1f-4b95-8bb5-c5840c6f058e)
+<img width="2410" height="1201" alt="image" src="https://github.com/user-attachments/assets/d00875d4-d915-435a-a7a0-0b7156e29179" />
 
 
 **Project Overview**
